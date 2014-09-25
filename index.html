@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+<section class="posts">
+  {% for post in site.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <p class="post-date">{{ post.date | date_to_string }}</p>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</section>

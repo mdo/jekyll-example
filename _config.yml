@@ -1,0 +1,21 @@
+# Syntax highlighting
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Jekyll Example
+tagline:             Basic example of a Jekyll site with Sass enabled.
+url:                 http://poole.github.io/jekyll-example
+baseurl:             /
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _scss
+  style:            :compressed
