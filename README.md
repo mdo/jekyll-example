@@ -4,7 +4,7 @@ You're looking at a simple Jekyll site built to show folks how to use Sass with 
 
 ### Usage
 
-Read the [Using Sass with Jekyll](http://markdotto.com/2014/09/26/sass-and-jekyll/) post.
+Read the [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/) post.
 
 ### Support
 
