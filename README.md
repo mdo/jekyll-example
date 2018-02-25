@@ -2,6 +2,10 @@
 
 You're looking at a simple Jekyll site built to show folks how to use Sass with Jekyll. It's open sourced under the MIT license and can be download from [the GitHub project](https://github.com/mdo/jekyll-example).
 
+### Demo
+
+Basic example [Jekyll Example Demo](http://mdo.github.io/jekyll-example/)
+
 ### Usage
 
 Read the [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/) post.
